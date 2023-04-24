@@ -1,0 +1,13 @@
+C:\Users\hasan\source\repos\THY_HACKTHON\bin\Debug\THY_HACKTHON.exe.config
+C:\Users\hasan\source\repos\THY_HACKTHON\bin\Debug\THY_HACKTHON.exe
+C:\Users\hasan\source\repos\THY_HACKTHON\bin\Debug\THY_HACKTHON.pdb
+C:\Users\hasan\source\repos\THY_HACKTHON\obj\Debug\THY_HACKTHON.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\THY_HACKTHON\obj\Debug\THY_HACKTHON.Form1.resources
+C:\Users\hasan\source\repos\THY_HACKTHON\obj\Debug\THY_HACKTHON.Properties.Resources.resources
+C:\Users\hasan\source\repos\THY_HACKTHON\obj\Debug\THY_HACKTHON.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\THY_HACKTHON\obj\Debug\THY_HACKTHON.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\THY_HACKTHON\obj\Debug\THY_HACKTHON.exe
+C:\Users\hasan\source\repos\THY_HACKTHON\obj\Debug\THY_HACKTHON.pdb
+C:\Users\hasan\source\repos\THY_HACKTHON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hasan\source\repos\THY_HACKTHON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hasan\source\repos\THY_HACKTHON\obj\Debug\THY_HACKTHON.csproj.CopyComplete
